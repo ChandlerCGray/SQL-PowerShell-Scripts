@@ -4,12 +4,12 @@ A PowerShell script for automated SQL Server installation and configuration with
 
 ## Features
 
-- 🚀 **Automated SQL Server Installation** - Downloads ISO from FTP and installs SQL Server
-- 📋 **YAML Configuration** - Easy-to-edit configuration file
-- 🛠️ **Optional Components** - SSMS, Ola Hallengren's Maintenance Solution, sp_WhoIsActive, First Responder Kit
-- 📊 **Progress Tracking** - Real-time progress indicators and detailed logging
-- 🔧 **SQL Server Optimization** - Memory configuration, TempDB optimization, default paths
-- ⏰ **Automated Scheduling** - Pre-configured maintenance job schedules
+- **Automated SQL Server Installation** - Downloads ISO from FTP and installs SQL Server
+- **YAML Configuration** - Easy-to-edit configuration file
+- **Optional Components** - SSMS, Ola Hallengren's Maintenance Solution, sp_WhoIsActive, First Responder Kit
+- **Progress Tracking** - Real-time progress indicators and detailed logging
+- **SQL Server Optimization** - Memory configuration, TempDB optimization, default paths
+- **Automated Scheduling** - Pre-configured maintenance job schedules
 
 ## Prerequisites
 
@@ -199,3 +199,4 @@ For issues and questions:
 - Create an issue in the GitHub repository
 - Check the troubleshooting section above
 - Review the configuration file documentation
+
